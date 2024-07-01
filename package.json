@@ -1,0 +1,16 @@
+{
+  "name": "namathey-react",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "just"
+  },
+  "keywords": [],
+  "author": "shaik Nazeer",
+  "license": "ISC",
+  "description": "this is practice",
+  "repository": {
+    "type": "git",
+    "url": "git"
+  }
+}
